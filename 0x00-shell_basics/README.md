@@ -1,1 +1,1 @@
-Displays directory content including hidden files
+Displays,IDS,Long formats
