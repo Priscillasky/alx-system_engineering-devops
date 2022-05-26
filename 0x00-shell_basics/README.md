@@ -1,1 +1,1 @@
-Type
+Back home
